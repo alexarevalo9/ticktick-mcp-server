@@ -1,7 +1,5 @@
 # TickTick MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@alexarevalo9/ticktick-mcp-server)](https://smithery.ai/server/@alexarevalo9/ticktick-mcp-server)
-
 MCP Server for the TickTick API, enabling task management, project organization, habit tracking, and more.
 
 ### Features
